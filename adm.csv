@@ -1,0 +1,5 @@
+﻿HN,TTL,NAME,LNAME,SEX,BLOOD,SYMP,DX1,TYP1,OP1,DOC,ID,TXN
+A1001012,Ms,I,IIII,F,AB,Sore throat,Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,Cold,B4,GP,9.64843E+12,2
+A1001013,MR,J,JJJJ,M,A,Cough,when an unknown printer took a galley of type and scrambled it to make a type specimen book.,Cold,A1,GP, 1010825301180,1
+A1001014,Mss,K,KKKK,F,B,Toothache,It has survived not only five centuries,mumps,A2,ENT,2.91544E+12,3
+A1001015,Ms,L,LLLL,F,O,Earache,"but also the leap into electronic typesetting, remaining essentially unchanged",influenza,A3,ENT,7.52699E+12,4

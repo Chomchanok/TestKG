@@ -1,0 +1,13 @@
+﻿HN,TTL,NAME,LNAME,SEX,BLOOD,SYMP,DX1,TYP1,OP1,DOC,ID,TXN
+A1001001,MR,A,AAAA,M,O,Headache,Lorem Ipsum is simply dummy text of the printing and typesetting industry.,Cold,A1,GP,1.50987E+12,11
+A1001002,Mss,B,BBBB,F,A,Sore throat,Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,Cold,A2,GP,1.45456E+12,5
+A1001003,Ms,C,CCCC,F,B,Cough,when an unknown printer took a galley of type and scrambled it to make a type specimen book.,Cold,A3,GP,3.53664E+12,6
+A1001004,MR,B,BBBB,M,AB,Toothache,It has survived not only five centuries,mumps,A4,ENT,5.45566E+12,4
+A1001005,Mss,C,CCCC,F,A,Earache,"but also the leap into electronic typesetting, remaining essentially unchanged",influenza,B1,ENT,2.2325E+12,1
+A1001006,Ms,A,AAAA,F,B,Numb,It was popularised in the 1960s with the release of Letraset sheets ,diabetes,B2,Neurologist,2.23476E+12,3
+A1001007,MR,D,DDDD,M,O,Headache,Lorem Ipsum is simply dummy text of the printing and typesetting industry.,Cold,B3,GP,2.45613E+12,2
+A1001008,Mss,E,EEEE,F,AB,Sore throat,Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,Cold,B4,GP,8.29409E+12,7
+A1001009,Ms,F,FFFF,F,O,Cough,when an unknown printer took a galley of type and scrambled it to make a type specimen book.,Cold,A1,GP,9.54901E+12,8
+A1001010,MR,G,GGGG,M,A,Toothache,It has survived not only five centuries,mumps,A2,ENT,5.77268E+12,9
+A1001011,Mss,H,HHHH,F,B,Earache,"but also the leap into electronic typesetting, remaining essentially unchanged",influenza,A3,ENT,2.35701E+12,10
+,,,,,,,,,,,,
